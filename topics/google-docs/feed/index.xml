@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google Docs Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/google-docs/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/google-docs</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Wed, 13 Apr 2016 12:13:35 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Google Docs Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/google-docs</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cauliflower sales: A head for figures</title>
+		<link>/stories/cauliflower-sales-head-figures</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2016 13:47:50 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Google Docs]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<guid isPermaLink="false">/?p=707</guid>
+
+					<description><![CDATA[<p>Rest easy. If you are on the Banting diet, you cannot be held responsible for the increase in cauliflower prices — at the wholesale level anyway — over the past few months. Demand for cauliflower, especially in suburban supermarkets, has increased. The Banting diet was made popular by sports health scientist Tim Noakes in his book, [&#8230;]</p>
+<p>The post <a href="/stories/cauliflower-sales-head-figures">Cauliflower sales: A head for figures</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

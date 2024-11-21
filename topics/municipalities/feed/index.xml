@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>municipalities Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/municipalities/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/municipalities</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Fri, 24 Jun 2016 09:41:41 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>municipalities Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/municipalities</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Metros falling way behind in issuing of property title deeds</title>
+		<link>/stories/metros-falling-way-behind-issuing-property-title-deeds</link>
+		
+		<dc:creator><![CDATA[Khulekani Magubane]]></dc:creator>
+		<pubDate>Thu, 12 May 2016 08:52:07 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[infogr.am]]></category>
+		<category><![CDATA[municipalities]]></category>
+		<category><![CDATA[Stats SA]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<guid isPermaLink="false">/?p=1105</guid>
+
+					<description><![CDATA[<p>Administrative problems, together with a failure to root out abuse of the housing allocation system, is tripping up the delivery of title deeds to beneficiaries in the country’s cities, with one metro failing to hand over any title deeds in two years. Human Settlements Minister Lindiwe Sisulu told MPs in a recent written reply to [&#8230;]</p>
+<p>The post <a href="/stories/metros-falling-way-behind-issuing-property-title-deeds">Metros falling way behind in issuing of property title deeds</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,107 @@
+/*
+ Theme Name:     Extra Child Theme
+ Theme URI:      http://www.elegantthemes.com/gallery/extra/
+ Description:    Extra Child Theme
+ Author:         Elegant Themes
+ Author URI:     http://www.elegantthemes.com
+ Template:       Extra
+ Version:        1.0.0
+*/
+ 
+@import url("/wp-content/themes/Extra/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+/* Remove bottom footer 'powered by' message */
+#footer-info { display: none; }
+
+/* Change footer background color */
+#footer { background: #555; }
+
+/* Style page titles */
+.et_pb_pagebuilder_layout .page .post-wrap h1 { 
+border-bottom: solid 1px #ccc;
+}
+
+/* Style widget links */
+.et_pb_widget a {
+color: #1e73be;
+}
+.et_pb_widget a:hover {
+color: #1e73be;
+}
+
+/* Reduce section padding */
+.et_pb_section {
+padding: 0;
+}
+
+/* Style widget titles */
+.et_pb_widget .widgettitle {
+background: #1e73be;
+}
+
+.et_pb_widget a:visited {
+color: #1e73be;
+}
+
+.table-responsive {
+margin-bottom: 50px;
+}
+
+.et-search-submit {
+  color: #fff;
+  background: transparent !important;
+}
+
+.et-search-submit:hover {
+  color: #fff;
+  background: transparent;
+}
+
+#text-11 {
+  background: transparent;
+  box-shadow: none;
+}
+
+#text-11 .widgettitle { 
+  display: none;
+}
+
+#text-11 .textwidget {
+  text-align: center;
+  padding: 0;
+}
+
+#text-11 .read-more-button {
+  text-align: center;
+}
+
+.et_pb_widget .widgettitle {
+  background: #333;
+}
+
+pre {
+    font-family: monospace;
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+code {
+    font-family: monospace;
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}

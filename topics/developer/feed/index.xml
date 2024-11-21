@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>developer Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/developer/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/developer</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 21 Jun 2016 12:52:44 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>developer Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/developer</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Data news editing 101: throw away the handbook</title>
+		<link>/behind-the-scenes/data-news-editing-101-throw-away-handbook</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2016 12:52:44 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[editor]]></category>
+		<guid isPermaLink="false">/?p=1157</guid>
+
+					<description><![CDATA[<p>Something in the cosmos or whatever mysterious force you believe in made my newsroom experience as a first-time data news editor easier than it will be for news editors of the future. I’ve stumbled upon a team that was being built to form a data newsroom at Code for South Africa, but not all newsrooms [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/data-news-editing-101-throw-away-handbook">Data news editing 101: throw away the handbook</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

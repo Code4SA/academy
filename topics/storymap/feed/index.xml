@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>storymap Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/storymap/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/storymap</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Mon, 18 Jul 2016 10:02:27 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>storymap Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/storymap</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mapping Tshwane: How the flames spread</title>
+		<link>/maps/mapping-tshwane-how-the-flames-spread</link>
+		
+		<dc:creator><![CDATA[Andrea Teagle]]></dc:creator>
+		<pubDate>Fri, 24 Jun 2016 10:22:26 +0000</pubDate>
+				<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Stories]]></category>
+		<category><![CDATA[storymap]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<guid isPermaLink="false">/?p=1174</guid>
+
+					<description><![CDATA[<p>Three people have been killed and at least 54 arrested in Tshwane after unrest resulting from the ANC’s appointment of Thoko Didiza as its mayoral candidate. As the ANC scrambles to end the violence, there are growing calls to hold the responsible to account and worries about increasing political violence ahead of the local government [&#8230;]</p>
+<p>The post <a href="/maps/mapping-tshwane-how-the-flames-spread">Mapping Tshwane: How the flames spread</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

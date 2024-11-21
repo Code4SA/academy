@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jsstorymap Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/jsstorymap/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/jsstorymap</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 02 Aug 2016 08:46:34 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>jsstorymap Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/jsstorymap</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dying to be elected: mapping politically-motivated killings</title>
+		<link>/maps/1420</link>
+		
+		<dc:creator><![CDATA[Roxanne Joseph]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2016 15:19:19 +0000</pubDate>
+				<category><![CDATA[Maps]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[jsstorymap]]></category>
+		<category><![CDATA[map]]></category>
+		<guid isPermaLink="false">/?p=1420</guid>
+
+					<description><![CDATA[<p>Politically-motivated killings in the run-up to the August 3 local government elections have mushroomed, country-wide. Our map of these killings is free-to-use (see embed code and link under the map). &#160; Embed: &#60;iframe src=&#8221;https://uploads.knightlab.com/storymapjs/1f1bc5e01ee0c7d6f1ec507ae666361b/ancs-kzn-political-killings/index.html&#8221; frameborder=&#8221;0&#8243; width=&#8221;100%&#8221; height=&#8221;800&#8243;&#62;&#60;/iframe&#62; Link: https://uploads.knightlab.com/storymapjs/1f1bc5e01ee0c7d6f1ec507ae666361b/ancs-kzn-political-killings/index.html</p>
+<p>The post <a href="/maps/1420">Dying to be elected: mapping politically-motivated killings</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

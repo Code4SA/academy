@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wazimap Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/wazimap/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/wazimap</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Wed, 29 Jun 2016 10:12:34 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>wazimap Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/wazimap</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Welcome to Los Angeles, Cape Town</title>
+		<link>/stories/welcome-los-angeles-cape-town</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2016 11:03:19 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Infogram]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[storybuilder]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<category><![CDATA[wazimap]]></category>
+		<guid isPermaLink="false">/?p=954</guid>
+
+					<description><![CDATA[<p>As far as informal settlements go, Los Angeles is one of the most unusual you will ever find.</p>
+<p>The post <a href="/stories/welcome-los-angeles-cape-town">Welcome to Los Angeles, Cape Town</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Forgotten People</title>
+		<link>/stories/the-forgotten-people</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2016 11:02:58 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[CartoDB]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<category><![CDATA[wazimap]]></category>
+		<guid isPermaLink="false">/?p=959</guid>
+
+					<description><![CDATA[<p>Thousands of people in 97 informal settlements were not counted in the 2011 census, a data-driven investigation has revealed.</p>
+<p>The post <a href="/stories/the-forgotten-people">The Forgotten People</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

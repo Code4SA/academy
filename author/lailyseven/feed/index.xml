@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lailah Ryklief, Author at Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/author/lailyseven/feed" rel="self" type="application/rss+xml" />
+	<link>/author/lailyseven</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 16 Aug 2016 13:08:07 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Lailah Ryklief, Author at Code for South Africa Data Journalism Academy</title>
+	<link>/author/lailyseven</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Long commute to freedom</title>
+		<link>/stories/long-commute-freedom</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 13:14:31 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">/?p=1401</guid>
+
+					<description><![CDATA[<p>Black people in particular bear the brunt of a decade-long focus on building houses instead of cities “at whatever cost”.</p>
+<p>The post <a href="/stories/long-commute-freedom">Long commute to freedom</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What&#8217;s killing our children?</title>
+		<link>/stories/whats-killing-children</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2016 09:38:57 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[children']]></category>
+		<category><![CDATA[city press]]></category>
+		<category><![CDATA[suicide]]></category>
+		<guid isPermaLink="false">/?p=1338</guid>
+
+					<description><![CDATA[<p>By the time the sun sets, at least one child in South Africa will have decided to take their own life; another will have died because of violence; five will have lost their lives because of accidents; and 12 will have succumbed to various illnesses.</p>
+<p>The post <a href="/stories/whats-killing-children">What&#8217;s killing our children?</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Timeline: Thuli Madonsela&#8217;s Big Five</title>
+		<link>/visualisations/timeline-thuli-madonselas-big-five</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Mon, 23 May 2016 10:16:20 +0000</pubDate>
+				<category><![CDATA[Visualisations]]></category>
+		<category><![CDATA[public protector]]></category>
+		<category><![CDATA[timeline]]></category>
+		<guid isPermaLink="false">/?p=1324</guid>
+
+					<description><![CDATA[<p>Outgoing Public Protector Thuli Madonsela has investigated some of the most high profile politicians in the country, including President Jacob Zuma. (Click on the arrows for more detail)</p>
+<p>The post <a href="/visualisations/timeline-thuli-madonselas-big-five">Timeline: Thuli Madonsela&#8217;s Big Five</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Forgotten People</title>
+		<link>/stories/the-forgotten-people</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2016 11:02:58 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[CartoDB]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<category><![CDATA[wazimap]]></category>
+		<guid isPermaLink="false">/?p=959</guid>
+
+					<description><![CDATA[<p>Thousands of people in 97 informal settlements were not counted in the 2011 census, a data-driven investigation has revealed.</p>
+<p>The post <a href="/stories/the-forgotten-people">The Forgotten People</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

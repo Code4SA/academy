@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>elections Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/elections/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/elections</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 02 Aug 2016 08:46:34 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>elections Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/elections</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The ‘double agents’ of the local government elections</title>
+		<link>/stories/double-agents-local-government-elections</link>
+		
+		<dc:creator><![CDATA[Roxanne Joseph]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2016 09:57:15 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[IEC]]></category>
+		<guid isPermaLink="false">/?p=1407</guid>
+
+					<description><![CDATA[<p>Muzonjani Zulu is so determined to change South Africa and to free it from what he describes is a government of non-intellectuals incapable of running the country, that he decided to contest the local government elections.Zulu is one of thousands of “double-agents” &#8211; candidates running for multiple wards and/or multiple parties &#8211; who stand to [&#8230;]</p>
+<p>The post <a href="/stories/double-agents-local-government-elections">The ‘double agents’ of the local government elections</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dying to be elected: mapping politically-motivated killings</title>
+		<link>/maps/1420</link>
+		
+		<dc:creator><![CDATA[Roxanne Joseph]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2016 15:19:19 +0000</pubDate>
+				<category><![CDATA[Maps]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[jsstorymap]]></category>
+		<category><![CDATA[map]]></category>
+		<guid isPermaLink="false">/?p=1420</guid>
+
+					<description><![CDATA[<p>Politically-motivated killings in the run-up to the August 3 local government elections have mushroomed, country-wide. Our map of these killings is free-to-use (see embed code and link under the map). &#160; Embed: &#60;iframe src=&#8221;https://uploads.knightlab.com/storymapjs/1f1bc5e01ee0c7d6f1ec507ae666361b/ancs-kzn-political-killings/index.html&#8221; frameborder=&#8221;0&#8243; width=&#8221;100%&#8221; height=&#8221;800&#8243;&#62;&#60;/iframe&#62; Link: https://uploads.knightlab.com/storymapjs/1f1bc5e01ee0c7d6f1ec507ae666361b/ancs-kzn-political-killings/index.html</p>
+<p>The post <a href="/maps/1420">Dying to be elected: mapping politically-motivated killings</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Voter registration weekend in numbers: E Cape reaches target</title>
+		<link>/visualisations/1100</link>
+		
+		<dc:creator><![CDATA[Siphe Macanda]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2016 12:43:58 +0000</pubDate>
+				<category><![CDATA[Visualisations]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[IEC]]></category>
+		<category><![CDATA[Registration]]></category>
+		<category><![CDATA[Voter]]></category>
+		<guid isPermaLink="false">/?p=1100</guid>
+
+					<description><![CDATA[<p>More than 3 million South Africans visited registration stations across the country this weekend to register to vote for the up-coming local government elections, according to the Independent Electoral Commission (IEC). Of the 3.5 million people registering to vote over the weekend, more than 1.1 million are from KwaZulu-Natal. The province registered the most eligible [&#8230;]</p>
+<p>The post <a href="/visualisations/1100">Voter registration weekend in numbers: E Cape reaches target</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

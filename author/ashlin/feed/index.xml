@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ashlin Simpson, Author at Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/author/ashlin/feed" rel="self" type="application/rss+xml" />
+	<link>/author/ashlin</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Thu, 11 Aug 2016 14:02:14 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Ashlin Simpson, Author at Code for South Africa Data Journalism Academy</title>
+	<link>/author/ashlin</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>You strike a woman, you strike a rock! Women’s Day and the events that led to it becoming a national holiday</title>
+		<link>/stories/strike-woman-strike-rock-womens-day-events-led-becoming-national-holiday</link>
+		
+		<dc:creator><![CDATA[Ashlin Simpson]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2016 15:46:25 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">/?p=1544</guid>
+
+					<description><![CDATA[<p>Sixty years ago today, on August 9, 1956, 20,000 South African women of all colours, races and creeds, staged an unprecedented march on the seat of government to protest the extension of the hated passes laws to include females, reports Ashlin Simpson Even though Prime Minister J.G. Strijdom, one of the architects of apartheid, refused [&#8230;]</p>
+<p>The post <a href="/stories/strike-woman-strike-rock-womens-day-events-led-becoming-national-holiday">You strike a woman, you strike a rock! Women’s Day and the events that led to it becoming a national holiday</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

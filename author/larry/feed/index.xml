@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Larry Claasen, Author at Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/author/larry/feed" rel="self" type="application/rss+xml" />
+	<link>/author/larry</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Mon, 03 Apr 2017 09:06:50 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Larry Claasen, Author at Code for South Africa Data Journalism Academy</title>
+	<link>/author/larry</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dear journos: Don&#8217;t fear the spreadsheet</title>
+		<link>/behind-the-scenes/dear-journos-dont-fear-spreadsheet</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Tue, 03 May 2016 08:57:22 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[spreadsheets]]></category>
+		<guid isPermaLink="false">/?p=1101</guid>
+
+					<description><![CDATA[<p>Dear fellow journos, I write to you with concern, as it has come to my attention that many, if not most of you dread working with spreadsheets. I understand this fear. Journalists tend to come from arts or politics backgrounds, and so have never needed to interact with a computerised accounting tool. Working on a [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/dear-journos-dont-fear-spreadsheet">Dear journos: Don&#8217;t fear the spreadsheet</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>When the data doesn&#8217;t lie: Letting Banting off the hook</title>
+		<link>/behind-the-scenes/data-doesnt-lie-letting-banting-off-hook</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2016 15:18:47 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1071</guid>
+
+					<description><![CDATA[<p>Photo by Xosema (Own work) [GFDL or CC BY-SA 4.0-3.0-2.5-2.0-1.0], via Wikimedia Commons &#8220;Cauliflower prices,&#8221; I thought to myself when I opened the data set. &#8220;Those damn Banters and their cauliflower bases.” The data in front of me contained monthly market reports on vegetable prices. I was looking at the data holistically, but an interesting trend [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/data-doesnt-lie-letting-banting-off-hook">When the data doesn&#8217;t lie: Letting Banting off the hook</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cauliflower sales: A head for figures</title>
+		<link>/stories/cauliflower-sales-head-figures</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2016 13:47:50 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Google Docs]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<guid isPermaLink="false">/?p=707</guid>
+
+					<description><![CDATA[<p>Rest easy. If you are on the Banting diet, you cannot be held responsible for the increase in cauliflower prices — at the wholesale level anyway — over the past few months. Demand for cauliflower, especially in suburban supermarkets, has increased. The Banting diet was made popular by sports health scientist Tim Noakes in his book, [&#8230;]</p>
+<p>The post <a href="/stories/cauliflower-sales-head-figures">Cauliflower sales: A head for figures</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

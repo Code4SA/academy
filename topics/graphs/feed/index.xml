@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>graphs Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/graphs/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/graphs</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Wed, 13 Apr 2016 11:58:41 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>graphs Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/graphs</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Waiting to Excel</title>
+		<link>/behind-the-scenes/waiting-to-excel</link>
+		
+		<dc:creator><![CDATA[Farren Collins]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2016 11:59:18 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[graphs]]></category>
+		<category><![CDATA[refugees]]></category>
+		<guid isPermaLink="false">/?p=852</guid>
+
+					<description><![CDATA[<p>I approached my first data set like I imagine one would approach a herd of rabid bison &#8211; feeling horribly afraid and hopelessly unprepared. There was however some comfort in &#8220;knowing&#8221; the bison I was dealing with. I had received an initial data set on refugee migration in 2014 from data wrangler/ninja Daniela Lepiz from [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/waiting-to-excel">Waiting to Excel</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

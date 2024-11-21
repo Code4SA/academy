@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>public protector Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/public-protector/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/public-protector</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 19 Jul 2016 10:17:42 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>public protector Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/public-protector</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Timeline: Thuli Madonsela&#8217;s Big Five</title>
+		<link>/visualisations/timeline-thuli-madonselas-big-five</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Mon, 23 May 2016 10:16:20 +0000</pubDate>
+				<category><![CDATA[Visualisations]]></category>
+		<category><![CDATA[public protector]]></category>
+		<category><![CDATA[timeline]]></category>
+		<guid isPermaLink="false">/?p=1324</guid>
+
+					<description><![CDATA[<p>Outgoing Public Protector Thuli Madonsela has investigated some of the most high profile politicians in the country, including President Jacob Zuma. (Click on the arrows for more detail)</p>
+<p>The post <a href="/visualisations/timeline-thuli-madonselas-big-five">Timeline: Thuli Madonsela&#8217;s Big Five</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

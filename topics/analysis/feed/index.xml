@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analysis Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/analysis/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/analysis</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Wed, 29 Jun 2016 10:09:24 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>analysis Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/analysis</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Data Adventure in Three Words: FML</title>
+		<link>/behind-the-scenes/data-adventure-three-words-fml</link>
+		
+		<dc:creator><![CDATA[Khulekani Magubane]]></dc:creator>
+		<pubDate>Fri, 08 Apr 2016 09:03:24 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[CartoDB]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[journalism]]></category>
+		<guid isPermaLink="false">/?p=868</guid>
+
+					<description><![CDATA[<p>Twenty eight data sets: that is the amount of data we had to look through to get an interesting slice of insight into South African professionals leaving the country to work abroad. To say that data journalism is the next critical form of storytelling in reporting and that it will eventually transform the way all news rooms operate would be a [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/data-adventure-three-words-fml">My Data Adventure in Three Words: FML</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

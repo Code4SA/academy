@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Behind the scenes Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/sections/behind-the-scenes/feed" rel="self" type="application/rss+xml" />
+	<link>/sections/behind-the-scenes</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Mon, 03 Apr 2017 09:06:50 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Behind the scenes Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/sections/behind-the-scenes</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why should journalists care about url patterns?</title>
+		<link>/behind-the-scenes/journalists-care-url-patterns</link>
+		
+		<dc:creator><![CDATA[Daniela Q. Lépiz]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2016 12:45:38 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1588</guid>
+
+					<description><![CDATA[<p>How to download many documents from an url, all at the same time. Well, we will focus on url patterns and a Firefox plug in to do so. Let's take a look with a practical example about the recent election data. </p>
+<p>The post <a href="/behind-the-scenes/journalists-care-url-patterns">Why should journalists care about url patterns?</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Too much data? Using the command line</title>
+		<link>/behind-the-scenes/one-wranglers-much-data-using-command-line</link>
+		
+		<dc:creator><![CDATA[Daniela Q. Lépiz]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2016 12:48:14 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1408</guid>
+
+					<description><![CDATA[<p>Too many files, too big, lots of data? Chaos. Finding trends over time usually means we need to combine different datasets from different years: files that are not designed for this purpose and are usually very big. We need to clean the data as fast as possible and do this perfectly accurately, but how? When [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/one-wranglers-much-data-using-command-line">Too much data? Using the command line</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Duck stampede: An experiment with 360° video</title>
+		<link>/behind-the-scenes/duck-run-testing-360-cameras-journalism-duck-runs</link>
+		
+		<dc:creator><![CDATA[Le Roux Schoeman]]></dc:creator>
+		<pubDate>Tue, 19 Jul 2016 11:11:44 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[ducks]]></category>
+		<category><![CDATA[multimedia]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">/?p=1330</guid>
+
+					<description><![CDATA[<p>As head of Netwerk24&#8217;s multimedia division, I&#8217;m always on the lookout for more engaging ways to tell visual stories to digital audiences. Imagine my delight when Code for South Africa director, Adi Eyal, arrived at Codebridge, where I&#8217;m attending the Code for South Africa Data-Driven Journalism Academy, with four brand new 360° cameras. VIDEO: Mini stampede – [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/duck-run-testing-360-cameras-journalism-duck-runs">Duck stampede: An experiment with 360° video</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Testing, testing&#8230; on failing at new things and stomach cramps</title>
+		<link>/behind-the-scenes/testing-testing</link>
+		
+		<dc:creator><![CDATA[Le Roux Schoeman]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2016 11:18:21 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1252</guid>
+
+					<description><![CDATA[<p>June was a wonderful month of failing at entirely new things, like scraping and cleaning data and trying to make a heatmap. And, in keeping with the Disruption Age mantra of &#8216;Fail Fast&#8217;, we got through it all at quite a snappy pace. The first two (cleaning, scraping) are modern endeavours that proved to be [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/testing-testing">Testing, testing&#8230; on failing at new things and stomach cramps</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data news editing 101: throw away the handbook</title>
+		<link>/behind-the-scenes/data-news-editing-101-throw-away-handbook</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2016 12:52:44 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[editor]]></category>
+		<guid isPermaLink="false">/?p=1157</guid>
+
+					<description><![CDATA[<p>Something in the cosmos or whatever mysterious force you believe in made my newsroom experience as a first-time data news editor easier than it will be for news editors of the future. I’ve stumbled upon a team that was being built to form a data newsroom at Code for South Africa, but not all newsrooms [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/data-news-editing-101-throw-away-handbook">Data news editing 101: throw away the handbook</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>When all else fails, make your own spreadsheet</title>
+		<link>/behind-the-scenes/else-fails-make-spreadsheet</link>
+		
+		<dc:creator><![CDATA[Zaid Gamieldien]]></dc:creator>
+		<pubDate>Fri, 06 May 2016 12:48:18 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1121</guid>
+
+					<description><![CDATA[<p>It’s easy to forget, amid all the cleaning, sorting, and filtering, that data journalism is all about storytelling. A wise man once told me “It’s called data journalism, not data journalism.” This is undoubtedly true, but before you get to embedding insightful graphs and creating beautiful visualisations, you first need some data to work with. [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/else-fails-make-spreadsheet">When all else fails, make your own spreadsheet</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dear journos: Don&#8217;t fear the spreadsheet</title>
+		<link>/behind-the-scenes/dear-journos-dont-fear-spreadsheet</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Tue, 03 May 2016 08:57:22 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[spreadsheets]]></category>
+		<guid isPermaLink="false">/?p=1101</guid>
+
+					<description><![CDATA[<p>Dear fellow journos, I write to you with concern, as it has come to my attention that many, if not most of you dread working with spreadsheets. I understand this fear. Journalists tend to come from arts or politics backgrounds, and so have never needed to interact with a computerised accounting tool. Working on a [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/dear-journos-dont-fear-spreadsheet">Dear journos: Don&#8217;t fear the spreadsheet</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>When the data doesn&#8217;t lie: Letting Banting off the hook</title>
+		<link>/behind-the-scenes/data-doesnt-lie-letting-banting-off-hook</link>
+		
+		<dc:creator><![CDATA[Larry Claasen]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2016 15:18:47 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<guid isPermaLink="false">/?p=1071</guid>
+
+					<description><![CDATA[<p>Photo by Xosema (Own work) [GFDL or CC BY-SA 4.0-3.0-2.5-2.0-1.0], via Wikimedia Commons &#8220;Cauliflower prices,&#8221; I thought to myself when I opened the data set. &#8220;Those damn Banters and their cauliflower bases.” The data in front of me contained monthly market reports on vegetable prices. I was looking at the data holistically, but an interesting trend [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/data-doesnt-lie-letting-banting-off-hook">When the data doesn&#8217;t lie: Letting Banting off the hook</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Start cooking SA newsrooms, because data is the new bacon</title>
+		<link>/behind-the-scenes/start-cooking-sa-newsrooms-data-new-bacon</link>
+		
+		<dc:creator><![CDATA[Siphe Macanda]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 13:19:22 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data journalism]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[King Buyelekhaya Dalindyebo]]></category>
+		<category><![CDATA[salaries]]></category>
+		<guid isPermaLink="false">/?p=894</guid>
+
+					<description><![CDATA[<p>I remember how our journalism head of department at university used to tell us about how newsrooms have been juniorised. But what really got my attention from his sessions was how he used to emphasise the need for newsrooms to evolve, as the whole print media was under threat because of the emergence of new [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/start-cooking-sa-newsrooms-data-new-bacon">Start cooking SA newsrooms, because data is the new bacon</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>You can&#8217;t Google this.</title>
+		<link>/behind-the-scenes/you-cant-google-this</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2016 12:32:11 +0000</pubDate>
+				<category><![CDATA[Behind the scenes]]></category>
+		<category><![CDATA[academy]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data journalism]]></category>
+		<guid isPermaLink="false">/?p=1010</guid>
+
+					<description><![CDATA[<p>“You can’t Google this,” said Richard Gevers (@richardgevers), founder of Open Data Durban. We were a couple of weeks in at the Code for South Africa Data Journalism Academy, enjoying a well-earned glass of overpriced wine at one of those Cape Town bars where you are always under-dressed. Conversation turned to the events of the [&#8230;]</p>
+<p>The post <a href="/behind-the-scenes/you-cant-google-this">You can&#8217;t Google this.</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

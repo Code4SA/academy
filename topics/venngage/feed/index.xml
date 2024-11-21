@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>venngage Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/venngage/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/venngage</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Mon, 18 Jul 2016 09:59:25 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>venngage Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/venngage</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Happy never after: divorce in SA</title>
+		<link>/visualisations/happy-never-divorce-sa</link>
+		
+		<dc:creator><![CDATA[Le Roux Schoeman]]></dc:creator>
+		<pubDate>Mon, 18 Jul 2016 09:59:25 +0000</pubDate>
+				<category><![CDATA[Visualisations]]></category>
+		<category><![CDATA[venngage]]></category>
+		<category><![CDATA[visualisation]]></category>
+		<guid isPermaLink="false">/?p=1222</guid>
+
+					<description><![CDATA[<p>Wedding venues might be a b$tch to book, but South Africans are also keeping the divorce court pretty busy. Now new data can help you &#8220;divorce-proof&#8221; your union a little bit, at least statistically-speaking. Happily never after Divorce in SAInfographic This visualisation was first published by Women 24 on 23 June 2016 Resources StatsSA Venngage</p>
+<p>The post <a href="/visualisations/happy-never-divorce-sa">Happy never after: divorce in SA</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

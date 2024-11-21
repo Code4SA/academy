@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taxpayers Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/taxpayers/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/taxpayers</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 19 Apr 2016 09:41:59 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>taxpayers Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/taxpayers</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>State fiscal outlook &#8220;unaffordable&#8221;</title>
+		<link>/stories/state-fiscal-outlook-unaffordable</link>
+		
+		<dc:creator><![CDATA[Khulekani Magubane]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2016 14:49:26 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Nkandla]]></category>
+		<category><![CDATA[President Jacob Zuma]]></category>
+		<category><![CDATA[public sector wage]]></category>
+		<category><![CDATA[taxpayers]]></category>
+		<guid isPermaLink="false">/?p=1006</guid>
+
+					<description><![CDATA[<p>The size and cost of the South African public service has grown so unwieldy that the country is 4 million taxpayers short of affording to maintain it in its current state. This is according to an analysis of data from the South African Revenue Service and Statistics South Africa, for the years 2009 and 2012, [&#8230;]</p>
+<p>The post <a href="/stories/state-fiscal-outlook-unaffordable">State fiscal outlook &#8220;unaffordable&#8221;</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

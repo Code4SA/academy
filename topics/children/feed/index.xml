@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>children&#039; Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/topics/children/feed" rel="self" type="application/rss+xml" />
+	<link>/topics/children</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 16 Aug 2016 13:08:07 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>children&#039; Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/topics/children</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What&#8217;s killing our children?</title>
+		<link>/stories/whats-killing-children</link>
+		
+		<dc:creator><![CDATA[Lailah Ryklief]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2016 09:38:57 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[children']]></category>
+		<category><![CDATA[city press]]></category>
+		<category><![CDATA[suicide]]></category>
+		<guid isPermaLink="false">/?p=1338</guid>
+
+					<description><![CDATA[<p>By the time the sun sets, at least one child in South Africa will have decided to take their own life; another will have died because of violence; five will have lost their lives because of accidents; and 12 will have succumbed to various illnesses.</p>
+<p>The post <a href="/stories/whats-killing-children">What&#8217;s killing our children?</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

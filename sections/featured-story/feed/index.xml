@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Featured story Archives - Code for South Africa Data Journalism Academy</title>
+	<atom:link href="/sections/featured-story/feed" rel="self" type="application/rss+xml" />
+	<link>/sections/featured-story</link>
+	<description>Africa&#039;s first data journalism academy</description>
+	<lastBuildDate>Tue, 06 Sep 2016 11:49:40 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/08/cropped-DJA-favicon-32x32.png</url>
+	<title>Featured story Archives - Code for South Africa Data Journalism Academy</title>
+	<link>/sections/featured-story</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>STORYTELLING CHALLENGE: What&#8217;s your story?</title>
+		<link>/featured-story/storytelling-challenge-whats-story</link>
+		
+		<dc:creator><![CDATA[Roxanne Joseph]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2016 10:41:31 +0000</pubDate>
+				<category><![CDATA[Featured story]]></category>
+		<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">/?p=1624</guid>
+
+					<description><![CDATA[<p>We challenge you to re-imagine storytelling Everyone has a story to tell. What&#8217;s yours? Do you know of a community who has a gap that needs to be filled or problem solved? What are some of the issues that matter the most to you? The way we tell stories has changed: today, journalism goes beyond [&#8230;]</p>
+<p>The post <a href="/featured-story/storytelling-challenge-whats-story">STORYTELLING CHALLENGE: What&#8217;s your story?</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What&#8217;s data got to do with it? We&#8217;re accepting applications for our third Data-Driven Journalism Academy. Apply, and find out&#8230;</title>
+		<link>/featured-story/dig-data-apply-part-next-data-driven-journalism-academy</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2016 13:47:48 +0000</pubDate>
+				<category><![CDATA[Featured story]]></category>
+		<guid isPermaLink="false">/?p=1559</guid>
+
+					<description><![CDATA[<p>Applications are now open for the third cohort of Code for South Africa’s Data-Driven Journalism Academy, which kicks off on September 12.</p>
+<p>The post <a href="/featured-story/dig-data-apply-part-next-data-driven-journalism-academy">What&#8217;s data got to do with it? We&#8217;re accepting applications for our third Data-Driven Journalism Academy. Apply, and find out&#8230;</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Panama Papers in Africa: how tax avoidance is robbing Africa of billions</title>
+		<link>/featured-story/panama-papers-africa-tax-avoidance-robbing-africa-billions</link>
+		
+		<dc:creator><![CDATA[Sarah Evans]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2016 13:25:44 +0000</pubDate>
+				<category><![CDATA[Featured story]]></category>
+		<category><![CDATA[Stories]]></category>
+		<guid isPermaLink="false">/?p=1346</guid>
+
+					<description><![CDATA[<p>Letitia Diergaardt is a receptionist for a battery-supplier in Windhoek, Namibia. One can almost picture her office: modest, a computer on her desk and hard copy accounting sheets, financial documents and debtors’ books neatly filed in cabinets. Diergaardt is also a director or owner of nine offshore companies in the British Virgin Islands, a tax [&#8230;]</p>
+<p>The post <a href="/featured-story/panama-papers-africa-tax-avoidance-robbing-africa-billions">The Panama Papers in Africa: how tax avoidance is robbing Africa of billions</a> appeared first on <a href="/">Code for South Africa Data Journalism Academy</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
